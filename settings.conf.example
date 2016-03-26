@@ -3,3 +3,8 @@ IMAGEURL="http://mirror.pnl.gov/fedora/linux/releases/22/Images/armhfp/Fedora-Mi
 BOOTSIZE=100
 ROOTSIZE=1800
 COMPRESS=0
+
+NOPASS=0
+PASS_HASHED=1
+# small letter a
+HASH='$6$HaPjtvZO$Pn2tTczO.MhU43EbPHt9yTgwX.JCKwHkbNX3F7GISN5iR..amgD0/JhHfCLorO7K8WRy2RgGqf361VtnDiBZy.'
